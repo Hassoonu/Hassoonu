@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @Hassoonu
-- 👀 I’m still an amateur in the CS Field but I'm very interested in Data and Machine Learning Research, Cybersecurity, and most things relating to Robotics.
+# 👋 Hi, I’m Hasan
+- 👀 I’m still an amateur in the CS Field but I'm very interested in Data and Machine Learning Research, Cybersecurity, and Robotics.
 - 🌱 I’m currently learning how to use Git and Github, Java, HTML and CSS.
 - 📫 How to reach me: Phone: 224-770-0450, Email: Hasan2002618@gmail.com
 
