@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Hasan
-- I'm very interested in Data and Machine Learning Research, Cybersecurity, and Robotics.
+- I'm very interested in Robotics and Communication Networks.
 - I’m currently learning: Parallel/GPU Programming & Data Analysis
 - How to reach me: Email: Hasan2002618@gmail.com
 
